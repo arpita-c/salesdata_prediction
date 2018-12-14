@@ -15,14 +15,15 @@ Environment Details:
 install python 2.7 (if not installed)
 sudo apt install python2.7 python-pip
 
+
 Install the following pacakge to run the program:
 ------------------------------------------------------
-sudo apt-get update
-sudo apt-get install python-pip
-sudo pip install numpy
-sudo pip install tensorflow==1.2.0 --ignore-installed
-sudo pip install keras==2.1.2
-sudo pip install pandas
-sudo python -m pip install statsmodels
-sudo pip install -U scikit-learn
+1. sudo apt-get update
+2. sudo apt-get install python-pip
+3. sudo pip install numpy
+4. sudo pip install tensorflow==1.2.0 --ignore-installed
+5. sudo pip install keras==2.1.2
+6. sudo pip install pandas
+7. sudo python -m pip install statsmodels
+8. sudo pip install -U scikit-learn
 
